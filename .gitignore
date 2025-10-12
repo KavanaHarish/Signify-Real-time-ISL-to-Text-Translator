@@ -27,7 +27,9 @@ dist/
 # Virtual environments
 .venv/
 .venv311/
+.venv312/
 venv/
 venv311/
-ENV/
+venv312/
 env/
+ENV/

@@ -1,0 +1,44 @@
+# Signify Configuration File
+
+# MediaPipe Settings
+mediapipe:
+  model_complexity: 1  # 0, 1 (default)
+  min_detection_confidence: 0.7
+  min_tracking_confidence: 0.5
+  max_num_hands: 2
+
+# Gesture Recognition Settings
+gesture:
+  sequence_length: 30  # Number of frames to analyze
+  confidence_threshold: 0.75
+  
+# Supported Languages
+languages:
+  - code: "en"
+    name: "English"
+  - code: "hi"
+    name: "Hindi"
+  - code: "kn"
+    name: "Kannada"
+  - code: "ta"
+    name: "Tamil"
+
+# Text-to-Speech Settings
+tts:
+  enabled: true
+  default_language: "en"
+  speed: 1.0
+
+# UI Settings
+ui:
+  theme: "light"
+  camera_width: 640
+  camera_height: 480
+  display_landmarks: true
+  display_confidence: true
+
+# Model Paths
+paths:
+  model_dir: "model"
+  data_dir: "data"
+  dictionary_path: "data/isl_dictionary.json"
