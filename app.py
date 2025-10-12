@@ -2,6 +2,8 @@ import streamlit as st
 import cv2
 import yaml
 import time
+import sys
+sys.path.append(".") 
 from model.hand_detector import HandDetector
 from model.gesture_classifier import GestureClassifier
 from utils.tts_engine import TTSEngine
