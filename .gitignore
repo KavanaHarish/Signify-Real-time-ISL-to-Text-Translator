@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+env/
+ENV/
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+venv311/
+ENV/
+env/
