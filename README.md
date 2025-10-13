@@ -1,12 +1,8 @@
-# 🤟 Signify - Real-time ISL to Text Translator
-
-![Signify Banner](https://img.shields.io/badge/Hackathon-Thales_GenTech_2025-blue)
-![Theme](https://img.shields.io/badge/Theme-Inclusive_EdTech-green)
-![Team](https://img.shields.io/badge/Team-InsigniaDevs-orange)
+# 🤟 Signify - Real-time ISL to Text Translator 
 
 ## 📋 Overview
 
-**Signify** is an AI-powered web application that translates Indian Sign Language (ISL) gestures into real-time text and speech. Built for the **Thales GenTech India Hackathon 2025**, Signify bridges the communication gap for hearing-impaired students in educational settings.
+**Signify** is an AI-powered web application that translates Indian Sign Language (ISL) gestures into real-time text and speech. Signify bridges the communication gap for hearing-impaired students in educational settings.
 
 ### ✨ Key Features
 
@@ -223,20 +219,6 @@ Full ISL alphabet support for fingerspelling
 - [ ] Analytics dashboard
 - [ ] API for third-party integration
 
----
-
-## 🏆 Hackathon Details
-
-**Event:** Thales GenTech India Hackathon 2025  
-**Theme:** Inclusive EdTech  
-**Team:** InsigniaDevs  
-**Members:**
-- Kavana H
-- Shreya P Shetty
-- Shailaja T
-
----
-
 ## 🔒 Privacy & Security
 
 - ✅ **No Data Storage:** Webcam feed is processed in real-time and never stored
@@ -269,16 +251,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, feedback, or collaboration:
 
-- **Email:** team.insigniadevs@example.com
-- **GitHub:** [github.com/insigniadevs/signify](https://github.com)
-- **LinkedIn:** [Team InsigniaDevs](https://linkedin.com)
+- **Email:** [kavanapoojary281@gmail.com]
+- **LinkedIn:** 
 
 ---
 
 ## 🙏 Acknowledgments
 
-- **Thales Group** for organizing GenTech Hackathon 2025
-- **HackerEarth** for the platform
 - **Google MediaPipe** for hand tracking technology
 - **Streamlit** for the amazing web framework
 - **Indian Sign Language Research** community
@@ -298,5 +277,5 @@ For questions, feedback, or collaboration:
 
 ---
 
-**Made with ❤️ by Team InsigniaDevs**  
+**Made with ❤️ by KavanaHarish**  
 **Empowering Inclusive Education Through AI**
