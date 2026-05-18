@@ -4,6 +4,9 @@
 
 **Signify** is an AI-powered web application that translates Indian Sign Language (ISL) gestures into real-time text and speech. Signify bridges the communication gap for hearing-impaired students in educational settings.
 
+## click here to check the
+LIVE DEMO -[https://signify-real-time-isl-to-text-translator-dvdfstu7zefyw5xwzrarx.streamlit.app/]
+
 ### ✨ Key Features
 
 - ✅ **Real-Time ISL Translation** - Instant gesture to text conversion
