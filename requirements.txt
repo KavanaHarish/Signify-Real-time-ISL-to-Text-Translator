@@ -8,4 +8,5 @@ scikit-learn==1.7.2
 streamlit-webrtc==0.63.11
 PyYAML==6.0.3
 gTTS==2.5.4
+opencv-python-headless
 
