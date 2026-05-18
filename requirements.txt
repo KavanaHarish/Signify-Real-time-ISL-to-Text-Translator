@@ -1,12 +1,8 @@
 streamlit==1.50.0
 opencv-python-headless==4.12.0.88
 mediapipe==0.10.14
-tensorflow-cpu==2.19.1
-numpy==2.1.3
-pandas==2.3.3
-scikit-learn==1.7.2
-streamlit-webrtc==0.63.11
-PyYAML==6.0.3
-gTTS==2.5.4
-opencv-python-headless
-
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+PyYAML==6.0.1
+gTTS==2.5.1
